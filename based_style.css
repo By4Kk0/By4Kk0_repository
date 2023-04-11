@@ -1,0 +1,25 @@
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    width: max;
+    height: 200px;
+    border: 1px solid red;
+  }
+
+.plitka {
+  width: 50px;
+	height: 50px;
+	border: 1px solid green;
+}
+
+header{
+  padding: 20px 0;
+  margin:auto;
+  text-align: center
+}
+
+footer{
+  padding: 20px 0;
+  margin:auto
+}
+  
